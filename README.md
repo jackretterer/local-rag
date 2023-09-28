@@ -19,13 +19,13 @@ The goal of this repo is not use any cloud services or external APIs and to run 
 3. Clone this repository by running the following command
 
 ```bash
-git clone git@github.com:Unstructured-IO/hp-demo.git
+git clone git@github.com:Unstructured-IO/local-RAG-demo.git
 ```
 
 4. CD into this repository locally, create a virtual environment, install the requirements
 
 ```bash
-cd hp-demo #enter hp-demo directory
+cd local-RAG-demo #enter hp-demo directory
 python3.10 -m venv env #create venv called env
 source env/bin/activate #activate environment
 pip install -r requirements.txt #install required packages
