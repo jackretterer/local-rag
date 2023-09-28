@@ -25,7 +25,7 @@ git clone git@github.com:Unstructured-IO/local-RAG-demo.git
 4. CD into this repository locally, create a virtual environment, install the requirements
 
 ```bash
-cd local-RAG-demo #enter hp-demo directory
+cd local-RAG-demo #enter local-RAG-demo directory
 python3.10 -m venv env #create venv called env
 source env/bin/activate #activate environment
 pip install -r requirements.txt #install required packages
